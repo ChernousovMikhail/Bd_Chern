@@ -118,5 +118,9 @@ namespace WindowsFormsApp1
                
         }
 
+        private void Authorization_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
